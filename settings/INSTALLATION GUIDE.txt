@@ -1,0 +1,17 @@
+Simple Installation Guide.
+
+Before replace the files stop Profit Trailer & PTMAGIC as a best practice.
+Replace the files or folder accordingly.
+
+1: settings.analyzer > PTMAGIC ( MAIN FOLDER)
+2: _preset > PTMAGIC (MAIN FOLDER)
+3: trading > Profit Trailer (MAIN FOLDER)
+
+REMEMBER TO CHANGE YOUR STRATEGY VALUE ACCORDINGLY!!!
+
+If you are using Multiple Files method.
+    You do not need to make any changes on settings.analyzer.json. Edit value each PAIRS, DCA & INDICATORS accordingly with the given folder.
+If you are using Single File method.
+    You only need to edit value on settings.analyzer.json
+
+Once replaced done, restart your Profit Trailer & PTMAGIC.

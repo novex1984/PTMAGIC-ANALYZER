@@ -1,0 +1,19 @@
+Translate PTMAGIC Market Trends for better understanding
+
+EndOfTheWorld - Bear Market in progress and can be continue
+    BTC & ALT coin is dropping together
+
+TankingDown - Bear Market
+    BTC & ALT coin is start to dropping
+
+BearSighed - Bear Market Prediction
+    BTC start to rise & ALT coin is dropping
+
+ReadyToLift - Bull Market Prediction
+    BTC rise slow & ALT coin is rise
+
+ToTheMoon - Super Bull Market
+    BTC & ALT coin is rise together
+
+Default - Boring Market
+    BTC & ALT coin is moving up down up down. Nothing excited.

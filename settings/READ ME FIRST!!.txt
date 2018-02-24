@@ -1,0 +1,10 @@
+WARNING!!
+
+Settings file provided is not intended to be use on your bot as ready strategy. This is for education purpose only!
+You should change the value accordingly on your own strategy. Don't blame on me if you lose money because you never change the settings.
+Peace & Happy Trailing
+
+Regards,
+    @novex1984 (discord name)
+
+You can visit our discord channel https://discord.gg/bYmE4E for any discussion with other PTMAGIC user for help.
